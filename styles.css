@@ -1,0 +1,123 @@
+
+
+.firstpage { 
+    background-color: #1f2937;
+    color: white;
+}
+
+.headerlogo {
+    padding-left: 10%;
+    width: auto;
+    display: inline;
+}
+
+.headerlink {
+    height: 20px;
+    width: 40%;
+    overflow: hidden;
+    margin-left: 40%;
+    margin-bottom: 5%;
+    display: inline;
+}
+
+.headerlink  a {
+    float: center;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .secondcontainer {
+    padding-left: 10%;
+    padding-top: 10%;
+    
+  }
+  .button1 {
+    background-color: #3882f6;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    width: 90px;
+    color:#ffffff;
+    transition: all 0.5s;
+    cursor: pointer;
+  }
+
+  .button1:hover {
+    background-color: #4CAF50; 
+    color: white;
+  }
+  
+.image {
+    position: relative;
+    left: 600px;
+    bottom: 200px;
+}
+
+.secondpage {
+    margin-left: 35%;
+}
+
+.row {
+    display: flex;
+    margin-left: 20%;
+  }
+  
+.gallery {
+    padding: 8px;
+   
+  }
+
+  div.gallery img {
+    border: 10px;
+    border-color: purple;
+    border-radius: 10px;
+  }
+
+.testimony {
+    background-color: #e5e7eb;
+    margin-top: 50px;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    text-align: center;
+}
+    
+.thirdcontainer {
+    background-color: #3882f6;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 27%;
+    color: white;
+    padding-right: 50px;
+}
+.call {
+    padding-left: 50px;
+    padding-top: 30px;
+    margin: 0px;
+}
+
+.lastbutton {
+
+}
+.button2 {
+    margin-left: 80%;
+    position: relative;
+    bottom: 40px;
+    color: #e5e7eb;
+    background-color: #3882f6;
+    border-color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    width: 100px;
+
+}
+
+.end {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 36px;
+    margin-top: 70px;
+}
