@@ -9,7 +9,7 @@ font-family: 'Times New Roman', Times, serif;
     color: white;
 }
 
-navbar {
+nav {
 
   display: flex;
   flex-direction: row;
